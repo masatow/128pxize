@@ -1,0 +1,2 @@
+# 128pxize
+Desktop/128pxize/resize_target 下の画像ファイルの長辺を128pxに変換するAutomator
